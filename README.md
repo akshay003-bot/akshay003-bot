@@ -1,7 +1,7 @@
-<img width="299" height="2" alt="image" src="https://github.com/user-attachments/assets/0d33a3c3-7f8b-4e5d-816f-774e556467a2" />
+<img width="1536" height="3" alt="image" src="https://github.com/user-attachments/assets/0d33a3c3-7f8b-4e5d-816f-774e556467a2" />
 <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/7c550d6d-1564-410c-96e1-29d698c8661a" />
 ## Hi there 👋
-<img width="299" height="2" alt="image" src="https://github.com/user-attachments/assets/0d33a3c3-7f8b-4e5d-816f-774e556467a2" />
+<img width="1536" height="3" alt="image" src="https://github.com/user-attachments/assets/0d33a3c3-7f8b-4e5d-816f-774e556467a2" />
 
 <!--
 **akshay003-bot/akshay003-bot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
